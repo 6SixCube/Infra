@@ -5,9 +5,9 @@ Repository to configure my linux PC. Here i will discribe all scripts and tools 
 
 ## Icescrum
 
-### Docker Install 
+### Docker Install
 
-#### Icescrum 
+#### Icescrum
 download from repository :
 
 ```bash
@@ -17,7 +17,7 @@ docker pull icescrum/icescrum
 launch docker icescrum only :
 ```bash
 docker run --name icescrum -v /home/pierref/icescrum:/root -p 8080:8080 icescrum/icescrum
-```  
+```
 
 #### mysql install :
 
